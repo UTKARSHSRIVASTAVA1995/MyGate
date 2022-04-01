@@ -5,6 +5,7 @@ buildscript {
         mavenCentral()  //add this line
         google()
         jcenter()
+
     }
     dependencies {
         classpath "com.android.tools.build:gradle:7.0.0"
