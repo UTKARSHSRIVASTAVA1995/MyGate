@@ -31,7 +31,7 @@
                     android:layout_gravity="center"
                     android:id="@+id/iconLogo"
                     android:visibility="visible"
-                    android:src="@drawable/sp" />
+                    android:src="@drawable/my_gate_logo" />
 
             </androidx.appcompat.widget.Toolbar>
         </com.google.android.material.appbar.AppBarLayout>

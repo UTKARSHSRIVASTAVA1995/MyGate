@@ -3,6 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyGate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/drawable/app_button_style.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/drawable/ic_shop.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/drawable/menu_item.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/drawable/rounded_corner_blue_gray.xml" value="0.1" />
+        <entry key="..\:/MyGate/app/src/main/res/layout/activity_main.xml" value="0.160741885625966" />
+        <entry key="..\:/MyGate/app/src/main/res/layout/app_bar_main.xml" value="0.1796875" />
+        <entry key="..\:/MyGate/app/src/main/res/layout/error_toast.xml" value="0.1796875" />
+        <entry key="..\:/MyGate/app/src/main/res/layout/preview_grid_row.xml" value="0.1796875" />
+        <entry key="..\:/MyGate/app/src/main/res/layout/rv_post_photo_list.xml" value="0.1796875" />
+        <entry key="..\:/MyGate/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
         <entry key="..\:/Spokesly/app/src/main/res/drawable/ic_close.xml" value="0.141" />
         <entry key="..\:/Spokesly/app/src/main/res/drawable/ic_delete.xml" value="0.145" />
         <entry key="..\:/Spokesly/app/src/main/res/drawable/ic_folder_option.xml" value="0.1025" />

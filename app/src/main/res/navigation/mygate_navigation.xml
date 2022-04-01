@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/postsFragment">
+
+    <fragment
+        android:id="@+id/postsFragment"
+        android:name="com.utkarsh.myGate.ui.fragments.posts.PostFragment"
+        android:label="Order"></fragment>
+
+    <fragment
+        android:id="@+id/contactsFragment"
+        android:name="com.utkarsh.myGate.ui.fragments.contacts.ContactsFragment"
+        android:label="Order"></fragment>
+
+    <fragment
+        android:id="@+id/usersFragment"
+        android:name="com.utkarsh.myGate.ui.fragments.userList.UserListFragment"
+        android:label="Order"></fragment>
+
+</navigation>

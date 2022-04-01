@@ -3,7 +3,7 @@
     <data>
         <variable
             name="oneCustomer"
-            type="com.utkarsh.spokesly.data.models.UserResponse" />
+            type="com.utkarsh.myGate.data.models.UserResponse" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
